@@ -1,5 +1,6 @@
 /*
-  - 실행			: ctrl + f11
+  - 실행				: ctrl + F11
+  - 디버그실행  		: F11
   - content assist 	: ctrl + space
   - 한라인 이동		: alt + arrow(down,up)
   - 한라인 복사		: ctrl + alt + arrow(down,up)
